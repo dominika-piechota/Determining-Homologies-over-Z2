@@ -3,6 +3,8 @@
 A small Mathematica library for constructing Čech complexes from finite point clouds and computing Betti numbers (homology over **Z₂**).
 The project was written for computational topology exercises and contains functions to generate random point sets, build the Čech complex for a given radius, compute boundary matrices, calculate ranks (mod 2) and produce Betti numbers. Simple 2D/3D visualizations are included.
 
+Project created as a final project for the course **‘Computational Topology’**.
+
 ---
 
 ## 🧠 Features
